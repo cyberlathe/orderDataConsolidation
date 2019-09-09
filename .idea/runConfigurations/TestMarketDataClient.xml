@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestMarketDataClient" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.cyberlathe.samplecodes.TestMarketDataClient" />
+    <module name="orderdata-consolidation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
