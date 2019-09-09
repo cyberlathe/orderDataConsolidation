@@ -1,7 +1,7 @@
-package com.cyberlathe.samplecodes.exchangefeed;
+package com.cyberlathe.orderdataconsolidation.exchangefeed;
 
-import com.cyberlathe.samplecodes.pubsub.MessageBroker;
-import com.cyberlathe.samplecodes.pubsub.NetworkSubscriber;
+import com.cyberlathe.orderdataconsolidation.pubsub.MessageBroker;
+import com.cyberlathe.orderdataconsolidation.pubsub.NetworkSubscriber;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

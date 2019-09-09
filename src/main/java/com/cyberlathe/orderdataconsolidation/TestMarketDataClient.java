@@ -1,13 +1,13 @@
-package com.cyberlathe.samplecodes;
+package com.cyberlathe.orderdataconsolidation;
 
-import com.cyberlathe.samplecodes.MarketDataSubscriber.ExchangeConnection;
-import com.cyberlathe.samplecodes.MarketDataSubscriber.MarketDataClient;
-import com.cyberlathe.samplecodes.exchangefeed.Exchange;
-import com.cyberlathe.samplecodes.exchangefeed.OrderBook;
-import com.cyberlathe.samplecodes.exchangefeed.OrderProcessor;
-import com.cyberlathe.samplecodes.feedsimulator.FileOrderFeed;
-import com.cyberlathe.samplecodes.feedsimulator.OrderFeed;
-import com.cyberlathe.samplecodes.pubsub.*;
+import com.cyberlathe.orderdataconsolidation.MarketDataSubscriber.ExchangeConnection;
+import com.cyberlathe.orderdataconsolidation.MarketDataSubscriber.MarketDataClient;
+import com.cyberlathe.orderdataconsolidation.exchangefeed.Exchange;
+import com.cyberlathe.orderdataconsolidation.exchangefeed.OrderBook;
+import com.cyberlathe.orderdataconsolidation.exchangefeed.OrderProcessor;
+import com.cyberlathe.orderdataconsolidation.feedsimulator.FileOrderFeed;
+import com.cyberlathe.orderdataconsolidation.feedsimulator.OrderFeed;
+import com.cyberlathe.orderdataconsolidation.pubsub.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

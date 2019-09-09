@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.MarketDataSubscriber;
+package com.cyberlathe.orderdataconsolidation.MarketDataSubscriber;
 
 import java.net.Socket;
 

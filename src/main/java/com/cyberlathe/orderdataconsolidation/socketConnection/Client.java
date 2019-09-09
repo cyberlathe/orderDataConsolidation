@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.socketConnection;
+package com.cyberlathe.orderdataconsolidation.socketConnection;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

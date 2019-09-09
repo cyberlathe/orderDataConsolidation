@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.pubsub;
+package com.cyberlathe.orderdataconsolidation.pubsub;
 
 import java.util.HashMap;
 import java.util.HashSet;

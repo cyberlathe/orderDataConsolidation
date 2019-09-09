@@ -1,7 +1,7 @@
-package com.cyberlathe.samplecodes.MarketDataSubscriber;
+package com.cyberlathe.orderdataconsolidation.MarketDataSubscriber;
 
-import com.cyberlathe.samplecodes.exchangefeed.Order;
-import com.cyberlathe.samplecodes.exchangefeed.OrderProcessor;
+import com.cyberlathe.orderdataconsolidation.exchangefeed.Order;
+import com.cyberlathe.orderdataconsolidation.exchangefeed.OrderProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.supercsv.cellprocessor.Optional;

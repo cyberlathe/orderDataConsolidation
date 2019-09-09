@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.pubsub;
+package com.cyberlathe.orderdataconsolidation.pubsub;
 
 public class PublisherImpl implements Publisher {
     private MessageBroker messageBroker;

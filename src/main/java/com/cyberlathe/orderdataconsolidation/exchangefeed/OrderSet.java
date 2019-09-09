@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.exchangefeed;
+package com.cyberlathe.orderdataconsolidation.exchangefeed;
 
 import java.util.SortedMap;
 import java.util.TreeMap;

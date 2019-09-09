@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.exchangefeed;
+package com.cyberlathe.orderdataconsolidation.exchangefeed;
 
 public class Order {
     public enum Side {

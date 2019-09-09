@@ -1,6 +1,6 @@
-package com.cyberlathe.samplecodes;
+package com.cyberlathe.orderdataconsolidation;
 
-import com.cyberlathe.samplecodes.socketConnection.Server;
+import com.cyberlathe.orderdataconsolidation.socketConnection.Server;
 
 import java.io.IOException;
 import java.io.OutputStream;

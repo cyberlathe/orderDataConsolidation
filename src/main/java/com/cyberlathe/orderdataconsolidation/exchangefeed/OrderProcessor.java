@@ -1,4 +1,4 @@
-package com.cyberlathe.samplecodes.exchangefeed;
+package com.cyberlathe.orderdataconsolidation.exchangefeed;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

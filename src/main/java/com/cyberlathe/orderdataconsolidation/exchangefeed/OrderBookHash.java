@@ -1,7 +1,7 @@
-package com.cyberlathe.samplecodes.exchangefeed;
+package com.cyberlathe.orderdataconsolidation.exchangefeed;
 
-import com.cyberlathe.samplecodes.pubsub.MessageBroker;
-import com.cyberlathe.samplecodes.pubsub.Publisher;
+import com.cyberlathe.orderdataconsolidation.pubsub.MessageBroker;
+import com.cyberlathe.orderdataconsolidation.pubsub.Publisher;
 
 import java.util.*;
 
