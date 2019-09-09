@@ -9,4 +9,6 @@ d. Order data consolidation
 
 Run the file TestMarketDataClient.java
 
+TODO: More details to be added..
+
 
